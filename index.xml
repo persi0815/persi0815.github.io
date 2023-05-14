@@ -39,14 +39,13 @@ Now I have a brand new Hugo website with a custom written theme complete with
     </item>
     
     <item>
-      <title>Making a new Website!!</title>
+      <title>Who am I?</title>
       <link>https://persi0815.github.io/blog/first-blog1/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
       
       <guid>https://persi0815.github.io/blog/first-blog1/</guid>
-      <description>For a long time this website has had a couple of links to contact me, but those days are over.
-Now I have a brand new Hugo website with a custom written theme complete with
- A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+      <description>Me and My hobby -Name: Ji-won Yang -Age: 21 years old -Occupation: College student, a storyteller who loves reading books and writing
+Introduction: Ji-won Yang is a 21-year-old college student who loves reading books and writing. She always finds great joy in exploring new knowledge and expressing her thoughts through writing. Books serve as keys that open up new worlds for her, while writing is her creative means of expression.</description>
     </item>
     
   </channel>
